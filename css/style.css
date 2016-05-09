@@ -27,13 +27,14 @@
     display: inline-block;
     bottom: 21%;
 }
-.flex-caption h3 {
-    color: #FFFFFF;
-    letter-spacing: 1px;
-    margin-bottom: 8px;
-    text-transform: capitalize;
-    font-size: 80px;
+
+.wedding {
+        font-family: 'Tangerine', serif;
+        font-size: 150px;
+        font-weight: 700;
+        letter-spacing: 4px;
 }
+
 .flex-caption p {
     margin: 12px 0 18px;
     font-size: 22px;
@@ -52,6 +53,7 @@ section.hero-text {
     height: 12px;
     background-color: #FF4242;
 }
+
 .flex-control-nav {
   width: 100%;
   position: absolute;
