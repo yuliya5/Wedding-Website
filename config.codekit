@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
+	"\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/css\/flexslider.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -20,112 +29,46 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/slides\/wedding1.jpg": {
+	"\/img\/slides\/wedding1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 205646,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding1.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding1.jpg",
+		"initialSize": 169825,
+		"inputAbbreviatedPath": "\/img\/slides\/wedding1.jpg",
+		"outputAbbreviatedPath": "\/img\/slides\/wedding1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/slides\/wedding10.jpg": {
+	"\/img\/slides\/wedding2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 74224,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding10.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding10.jpg",
+		"initialSize": 278145,
+		"inputAbbreviatedPath": "\/img\/slides\/wedding2.jpg",
+		"outputAbbreviatedPath": "\/img\/slides\/wedding2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/slides\/wedding2.jpg": {
+	"\/img\/slides\/wedding3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 384046,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding2.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding2.jpg",
+		"initialSize": 275400,
+		"inputAbbreviatedPath": "\/img\/slides\/wedding3.jpg",
+		"outputAbbreviatedPath": "\/img\/slides\/wedding3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/slides\/wedding3.jpg": {
+	"\/img\/slides\/wedding4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 273420,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding3.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding3.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding4.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 138636,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding4.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding4.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding5.jpeg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 166568,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding5.jpeg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding5.jpeg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding6.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 281965,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding6.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding6.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding7.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 289966,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding7.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding7.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding8.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 289419,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding8.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding8.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/slides\/wedding9.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 106111,
-		"inputAbbreviatedPath": "\/images\/slides\/wedding9.jpg",
-		"outputAbbreviatedPath": "\/images\/slides\/wedding9.jpg",
+		"initialSize": 371674,
+		"inputAbbreviatedPath": "\/img\/slides\/wedding4.jpg",
+		"outputAbbreviatedPath": "\/img\/slides\/wedding4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -139,23 +82,34 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/js\/flexslider\/jquery.flexslider.js": {
+	"\/js\/bootstrap.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/flexslider\/jquery.flexslider.js",
-		"outputAbbreviatedPath": "\/js\/flexslider\/min\/jquery.flexslider-min.js",
+		"inputAbbreviatedPath": "\/js\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/bootstrap.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/flexslider\/setting.js": {
+	"\/js\/custom.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/flexslider\/setting.js",
-		"outputAbbreviatedPath": "\/js\/flexslider\/min\/setting-min.js",
+		"inputAbbreviatedPath": "\/js\/custom.js",
+		"outputAbbreviatedPath": "\/js\/min\/custom-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.fancybox.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fancybox.pack.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fancybox.pack-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -167,6 +121,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/jquery.flexslider.js",
 		"outputAbbreviatedPath": "\/js\/min\/jquery.flexslider-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
