@@ -114,11 +114,10 @@ section.hero-text {
 
 /**** MEDIA QUERIES ****/
 
-@media (max-width: 767px) {
+@media (max-width: 695px) {
     .flex-caption {
       display: none;
  }
-
 }
 
 @media (max-width: 768px) {
