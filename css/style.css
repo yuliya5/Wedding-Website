@@ -48,20 +48,11 @@
 }
 
 section.hero-text {
-    /*background: #FEFEFE;*/
     background: #a199ad;
     padding: 5px 0 10px 0;
-    /*color: #313334;*/
     color: pink;
     border-top: 6px solid pink;
 }
-
-/*.carousel-indicators .active {
-    margin: 0;
-    width: 20px;
-    height: 12px;
-    background-color: #FF4242;
-}*/
 
 .flex-control-nav {
   width: 100%;
@@ -100,6 +91,22 @@ section.hero-text {
 
 .navbar-inverse .navbar-nav>li>a {
     color: #a199ad;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.logo,
+.logo-section {
+  float: left;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-family: 'Tangerine', serif;
+    letter-spacing: 2px;
+    font-size: 50px;
 }
 
 

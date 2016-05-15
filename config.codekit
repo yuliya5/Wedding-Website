@@ -29,6 +29,94 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/bride_and_groom.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11362,
+		"inputAbbreviatedPath": "\/img\/bride_and_groom.png",
+		"outputAbbreviatedPath": "\/img\/bride_and_groom.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cake.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25407,
+		"inputAbbreviatedPath": "\/img\/cake.png",
+		"outputAbbreviatedPath": "\/img\/cake.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cake2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31436,
+		"inputAbbreviatedPath": "\/img\/cake2.png",
+		"outputAbbreviatedPath": "\/img\/cake2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cake3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16436,
+		"inputAbbreviatedPath": "\/img\/cake3.png",
+		"outputAbbreviatedPath": "\/img\/cake3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/champagne.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21865,
+		"inputAbbreviatedPath": "\/img\/champagne.png",
+		"outputAbbreviatedPath": "\/img\/champagne.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/champagne2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5339,
+		"inputAbbreviatedPath": "\/img\/champagne2.png",
+		"outputAbbreviatedPath": "\/img\/champagne2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/church.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6092,
+		"inputAbbreviatedPath": "\/img\/church.png",
+		"outputAbbreviatedPath": "\/img\/church.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/girlfriend.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40296,
+		"inputAbbreviatedPath": "\/img\/girlfriend.png",
+		"outputAbbreviatedPath": "\/img\/girlfriend.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/slides\/wedding1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -69,6 +157,83 @@
 		"initialSize": 371674,
 		"inputAbbreviatedPath": "\/img\/slides\/wedding4.jpg",
 		"outputAbbreviatedPath": "\/img\/slides\/wedding4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/together.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9216,
+		"inputAbbreviatedPath": "\/img\/together.png",
+		"outputAbbreviatedPath": "\/img\/together.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vector-colorful-wedding-icons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33858,
+		"inputAbbreviatedPath": "\/img\/vector-colorful-wedding-icons.jpg",
+		"outputAbbreviatedPath": "\/img\/vector-colorful-wedding-icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vector-elements-of-wedding-day.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 172886,
+		"inputAbbreviatedPath": "\/img\/vector-elements-of-wedding-day.jpg",
+		"outputAbbreviatedPath": "\/img\/vector-elements-of-wedding-day.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vector-wedding-icons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 103480,
+		"inputAbbreviatedPath": "\/img\/vector-wedding-icons.jpg",
+		"outputAbbreviatedPath": "\/img\/vector-wedding-icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vector-wedding-pink-and-purple-icons.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99750,
+		"inputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
+		"outputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding_car.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23052,
+		"inputAbbreviatedPath": "\/img\/wedding_car.png",
+		"outputAbbreviatedPath": "\/img\/wedding_car.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding_envelope.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8831,
+		"inputAbbreviatedPath": "\/img\/wedding_envelope.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding_envelope.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
