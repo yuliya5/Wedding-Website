@@ -48,7 +48,7 @@
 }
 
 section.hero-text {
-    background: #a199ad;
+    background: rgb(167, 176, 255);
     padding: 5px 0 10px 0;
     color: pink;
     border-top: 6px solid pink;
@@ -71,7 +71,7 @@ section.hero-text {
   height: 11px;
   display: block;
   background: #FFF;
-  background: rgba(255, 255, 255, 1);
+  background: rgb(167, 176, 255);
 }
 .flex-control-paging li a.flex-active {
   background: #EA2D2D;
@@ -80,7 +80,7 @@ section.hero-text {
 /* --- navbar --- */
 
 .navbar-inverse {
-  padding: 10px;
+  padding: 20px;
   border-radius: 0
 }
 
@@ -90,7 +90,7 @@ section.hero-text {
 }
 
 .navbar-inverse .navbar-nav>li>a {
-    color: #a199ad;
+    color: pink;
 }
 
 .navbar-nav {
@@ -106,7 +106,9 @@ section.hero-text {
     color: white;
     font-family: 'Tangerine', serif;
     letter-spacing: 2px;
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    margin-top: 5px;
 }
 
 

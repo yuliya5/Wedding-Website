@@ -29,6 +29,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/6Tpokn5Rc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27413,
+		"inputAbbreviatedPath": "\/img\/6Tpokn5Rc.png",
+		"outputAbbreviatedPath": "\/img\/6Tpokn5Rc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bird.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47443,
+		"inputAbbreviatedPath": "\/img\/bird.png",
+		"outputAbbreviatedPath": "\/img\/bird.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/bride_and_groom.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -106,6 +128,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/flat-love-icons-vector-set.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 210997,
+		"inputAbbreviatedPath": "\/img\/flat-love-icons-vector-set.jpg",
+		"outputAbbreviatedPath": "\/img\/flat-love-icons-vector-set.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/girlfriend.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -113,6 +146,50 @@
 		"initialSize": 40296,
 		"inputAbbreviatedPath": "\/img\/girlfriend.png",
 		"outputAbbreviatedPath": "\/img\/girlfriend.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/invitation.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4170,
+		"inputAbbreviatedPath": "\/img\/invitation.png",
+		"outputAbbreviatedPath": "\/img\/invitation.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/purple-butterfly-wedding-clipart-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 110682,
+		"inputAbbreviatedPath": "\/img\/purple-butterfly-wedding-clipart-1.jpg",
+		"outputAbbreviatedPath": "\/img\/purple-butterfly-wedding-clipart-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/purple-vine-hi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29522,
+		"inputAbbreviatedPath": "\/img\/purple-vine-hi.png",
+		"outputAbbreviatedPath": "\/img\/purple-vine-hi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ring.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34922,
+		"inputAbbreviatedPath": "\/img\/ring.png",
+		"outputAbbreviatedPath": "\/img\/ring.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -194,6 +271,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/vector-set-of-wedding-day-accessories.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 181561,
+		"inputAbbreviatedPath": "\/img\/vector-set-of-wedding-day-accessories.jpg",
+		"outputAbbreviatedPath": "\/img\/vector-set-of-wedding-day-accessories.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/vector-wedding-icons.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -212,6 +300,28 @@
 		"initialSize": 99750,
 		"inputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
 		"outputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Wedding-Clipart.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23631,
+		"inputAbbreviatedPath": "\/img\/Wedding-Clipart.jpg",
+		"outputAbbreviatedPath": "\/img\/Wedding-Clipart.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-corner-decor-hi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27668,
+		"inputAbbreviatedPath": "\/img\/wedding-corner-decor-hi.png",
+		"outputAbbreviatedPath": "\/img\/wedding-corner-decor-hi.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
