@@ -29,17 +29,17 @@
 }
 
 .wedding {
-        font-family: 'Tangerine', serif;
-        font-size: 150px;
-        /*font-weight: 500;*/
-        letter-spacing: 4px;
-        color: pink;
+    font-family: 'Tangerine', serif;
+    font-size: 150px;
+    /*font-weight: 500;*/
+    letter-spacing: 4px;
+    color: pink;
 }
 
 .wedding2 {
-  font-family: 'Tangerine', serif;
-  font-size: 30px;
-  font-weight: 700;
+    font-family: 'Tangerine', serif;
+    font-size: 30px;
+    font-weight: 700;
 }
 
 .flex-caption p {
@@ -55,38 +55,38 @@ section.hero-text {
 }
 
 .flex-control-nav {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  text-align: center;
-  z-index: 2;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    z-index: 2;
 }
  .flex-control-paging li a {
-  width: 30px;
-  height: 10px;
-  border-radius: 0;
+    width: 30px;
+    height: 10px;
+    border-radius: 0;
 }
 .flex-control-paging li a {
-  width: 25px;
-  height: 11px;
-  display: block;
-  background: #FFF;
-  background: rgb(167, 176, 255);
+    width: 25px;
+    height: 11px;
+    display: block;
+    background: #FFF;
+    background: rgb(167, 176, 255);
 }
 .flex-control-paging li a.flex-active {
-  background: #EA2D2D;
+    background: pink;
 }
 
 /* --- navbar --- */
 
 .navbar-inverse {
-  padding: 20px;
-  border-radius: 0
+    padding: 20px;
+    border-radius: 0
 }
 
 .navStyle ul li a {
-  text-transform: uppercase;
-  font-weight: 600;
+    text-transform: uppercase;
+    font-weight: 600;
 }
 
 .navbar-inverse .navbar-nav>li>a {
@@ -99,7 +99,7 @@ section.hero-text {
 
 .logo,
 .logo-section {
-  float: left;
+    float: left;
 }
 
 .navbar-inverse .navbar-brand {
