@@ -116,6 +116,20 @@ section.hero-text {
 
 @media (max-width: 767px) {
     .flex-caption {
-        display: none;
+      display: none;
+ }
+
+}
+
+@media (max-width: 768px) {
+    .logo,
+    .logo-section {
+      display: none;
+ }
+
+    .navbar-inverse {
+      padding: 5px;
+      border-radius: 0
+ }
 }
 
