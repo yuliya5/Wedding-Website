@@ -1,7 +1,6 @@
 
-/*  Sliders
+/*  Flexslider
 ==================================== */
-/* --- flexslider --- */
 
 #main-slider:before {
     content: '';
@@ -77,7 +76,8 @@ section.hero-text {
     background: pink;
 }
 
-/* --- navbar --- */
+/*  Navbar
+==================================== */
 
 .navbar-inverse {
     padding: 20px;
