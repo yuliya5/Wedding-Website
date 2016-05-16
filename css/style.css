@@ -111,6 +111,39 @@ section.hero-text {
     margin-top: 5px;
 }
 
+/*  About Us Section
+==================================== */
+
+#aboutUs .feature {
+  margin-top: 30px;
+  margin-bottom: 54px;
+}
+#aboutUs .right {
+  padding-left: 32px;
+  padding-right: 32px;
+  float: right;
+}
+#aboutUs .left {
+  padding-left: 32px;
+  padding-right: 32px;
+  float: left;
+}
+#aboutUs h2 {
+  font-size: 64px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #d25f94;
+  font-family: 'Tangerine', serif;
+}
+.row .six {
+  width: 50%;
+}
+.feature-media img{
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
 
 /**** MEDIA QUERIES ****/
 
@@ -130,5 +163,10 @@ section.hero-text {
       padding: 5px;
       border-radius: 0
  }
+
+    .row .six {
+      width: auto;
+    }
 }
+
 
