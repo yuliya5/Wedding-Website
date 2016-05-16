@@ -29,17 +29,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/img\/6Tpokn5Rc.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 27413,
-		"inputAbbreviatedPath": "\/img\/6Tpokn5Rc.png",
-		"outputAbbreviatedPath": "\/img\/6Tpokn5Rc.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/bird.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -322,6 +311,50 @@
 		"initialSize": 99750,
 		"inputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
 		"outputAbbreviatedPath": "\/img\/vector-wedding-pink-and-purple-icons.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vines1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42502,
+		"inputAbbreviatedPath": "\/img\/vines1.png",
+		"outputAbbreviatedPath": "\/img\/vines1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vines2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17411,
+		"inputAbbreviatedPath": "\/img\/vines2.png",
+		"outputAbbreviatedPath": "\/img\/vines2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vines3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31854,
+		"inputAbbreviatedPath": "\/img\/vines3.png",
+		"outputAbbreviatedPath": "\/img\/vines3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/vines4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11305,
+		"inputAbbreviatedPath": "\/img\/vines4.png",
+		"outputAbbreviatedPath": "\/img\/vines4.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
