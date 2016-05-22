@@ -29,6 +29,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/bell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6682,
+		"inputAbbreviatedPath": "\/img\/bell.jpg",
+		"outputAbbreviatedPath": "\/img\/bell.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/bird.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -117,6 +128,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/dress.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6045,
+		"inputAbbreviatedPath": "\/img\/dress.jpg",
+		"outputAbbreviatedPath": "\/img\/dress.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/drink.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5811,
+		"inputAbbreviatedPath": "\/img\/drink.jpg",
+		"outputAbbreviatedPath": "\/img\/drink.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/flat-love-icons-vector-set.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -172,6 +205,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/present.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8065,
+		"inputAbbreviatedPath": "\/img\/present.jpg",
+		"outputAbbreviatedPath": "\/img\/present.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/purple-butterfly-wedding-clipart-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -190,6 +234,17 @@
 		"initialSize": 29522,
 		"inputAbbreviatedPath": "\/img\/purple-vine-hi.png",
 		"outputAbbreviatedPath": "\/img\/purple-vine-hi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/ring.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6601,
+		"inputAbbreviatedPath": "\/img\/ring.jpg",
+		"outputAbbreviatedPath": "\/img\/ring.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
