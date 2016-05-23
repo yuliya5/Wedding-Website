@@ -1,3 +1,7 @@
+body{
+    background:#f9f9f9 url(../img/white.jpg) repeat top left;
+  }
+
 
 /*  Flexslider
 ==================================== */
@@ -141,6 +145,7 @@ section.hero-text {
     max-width: 100%;
     height: auto;
     margin-top: 30px;
+    border: 8px solid #fff;
 }
 
 /*  Details Section
@@ -161,8 +166,6 @@ section.hero-text {
   width: 100%;
   height: auto;
   padding: 85px 0;
-  /*margin-top: 50px;*/
-  /*margin-bottom: 50px;*/
 }
 
 .page-section h3{
