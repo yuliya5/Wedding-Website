@@ -164,7 +164,7 @@ section.hero-text {
 }
 
 .text-center:hover img{
-  transform: scale(1.3,1.3);
+  transform: scale(1.2,1.2);
 }
 
 .page-section{
@@ -180,6 +180,96 @@ section.hero-text {
 
 /*  Photo Gallery Section
 ==================================== */
+
+.pretty {
+  font-size: 90px;
+  font-weight: 700;
+  font-family: 'Tangerine', serif;
+  color: #d25f94;
+  letter-spacing: 1px;
+  padding-bottom: 35px;
+  padding-top: 60px;
+}
+
+.view {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin-bottom: 20px;
+  border: 10px solid #fff;
+}
+
+.view .mask,.view .content  {
+   height: 100%;
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+
+.view h2 {
+   text-transform: uppercase;
+   color: #fff;
+   text-align: center;
+   position: relative;
+   font-size: 17px;
+   padding: 10px;
+   background: rgba(0, 0, 0, 0.8);
+   margin: 20px 0 0 0;
+}
+.view p {
+   font-family: Georgia, serif;
+   font-style: italic;
+   font-size: 12px;
+   position: relative;
+   color: #fff;
+   padding: 10px 20px 20px;
+   text-align: center;
+}
+.view a.info {
+   position: absolute;
+   left: 35%;
+   text-decoration: none;
+   padding: 7px 14px;
+   background: #000;
+   color: #fff;
+   text-transform: uppercase;
+   text-align: center;
+}
+
+.view-first img {
+   transition: all 0.2s linear;
+}
+.view-first .mask {
+   opacity: 0;
+   background-color: rgba(119, 0, 36, 0.6);
+   transition: all 0.4s ease-in-out;
+}
+.view-first h2 {
+   transform: translateY(-100px);
+   transition: all 0.3s ease-in-out;
+}
+.view-first p {
+   transform: translateY(100px);
+   transition: all 0.2s linear;
+}
+.view-first:hover img {
+   transform: scale(1.3,1.3);
+}
+.view-first a.info {
+   opacity: 0;
+   transition: all 0.2s ease-in-out;
+}
+.view-first:hover .mask {
+   opacity: 1;
+}
+.view-first:hover h2,
+.view-first:hover p,
+.view-first:hover a.info {
+   opacity: 1;
+   transform: translateY(0px);
+}
+
 
 
 
