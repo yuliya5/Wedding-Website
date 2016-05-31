@@ -205,6 +205,105 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/picture1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.80181e+06,
+		"inputAbbreviatedPath": "\/img\/picture1.jpg",
+		"outputAbbreviatedPath": "\/img\/picture1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54734,
+		"inputAbbreviatedPath": "\/img\/picture2.jpg",
+		"outputAbbreviatedPath": "\/img\/picture2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 540425,
+		"inputAbbreviatedPath": "\/img\/picture3.jpg",
+		"outputAbbreviatedPath": "\/img\/picture3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31757,
+		"inputAbbreviatedPath": "\/img\/picture4.jpg",
+		"outputAbbreviatedPath": "\/img\/picture4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 373759,
+		"inputAbbreviatedPath": "\/img\/picture5.jpg",
+		"outputAbbreviatedPath": "\/img\/picture5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322911,
+		"inputAbbreviatedPath": "\/img\/picture6.jpg",
+		"outputAbbreviatedPath": "\/img\/picture6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12767,
+		"inputAbbreviatedPath": "\/img\/picture7.jpg",
+		"outputAbbreviatedPath": "\/img\/picture7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11358,
+		"inputAbbreviatedPath": "\/img\/picture8.jpg",
+		"outputAbbreviatedPath": "\/img\/picture8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/picture9.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40813,
+		"inputAbbreviatedPath": "\/img\/picture9.jpg",
+		"outputAbbreviatedPath": "\/img\/picture9.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/present.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
