@@ -182,7 +182,7 @@ section.hero-text {
 ==================================== */
 
 .texture{
-  background: url(../img/texture11.jpg) repeat top left;;
+  background: url(../img/texture1.jpg) repeat top left;;
 }
 
 .pretty {
@@ -195,6 +195,7 @@ section.hero-text {
   padding-top: 60px;
   text-shadow: 4px 4px 4px #aaa;
 }
+
 
 .view {
   position: relative;
