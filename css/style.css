@@ -1,5 +1,5 @@
 body{
-    background:#f9f9f9 url(../img/white.jpg) repeat top left;
+    background: url(../img/white.jpg) repeat top left;
   }
 
 
@@ -11,7 +11,7 @@ body{
     width: 100%;
     height: 100%;
     background: rgba(0, 0, 0, 0.53);
-    z-index: 1;
+    z-index: 1; 
     position: absolute;
 }
 
@@ -132,7 +132,7 @@ section.hero-text {
   float: left;
 }
 #aboutUs h2 {
-  font-size: 64px;
+  font-size: 74px;
   font-weight: bold;
   letter-spacing: 1px;
   color: #d25f94;
@@ -180,22 +180,29 @@ section.hero-text {
 
 /*  Photo Gallery Section
 ==================================== */
+
+.texture{
+  background: url(../img/texture1.jpg) repeat top left;;
+}
+
 .pretty {
   font-size: 90px;
   font-weight: 700;
   font-family: 'Tangerine', serif;
-  color: #d25f94;
+  color: #c01b67;
   letter-spacing: 1px;
   padding-bottom: 35px;
   padding-top: 60px;
+  text-shadow: 4px 4px 4px #aaa;
 }
 
 .view {
   position: relative;
   display: block;
   overflow: hidden;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
   border: 10px solid #fff;
+  box-shadow: 4px 4px 4px #868686;
 }
 
 .view .mask,.view .content  {
