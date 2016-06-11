@@ -447,6 +447,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/texture13.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 357320,
+		"inputAbbreviatedPath": "\/img\/texture13.jpg",
+		"outputAbbreviatedPath": "\/img\/texture13.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/texture2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
